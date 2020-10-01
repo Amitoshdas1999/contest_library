@@ -1,8 +1,8 @@
-C++ algorithm contest library
+C++ algorithm contest library:
 =============================
 
-This library is intented to be used in online contests, or on ACM-style competitions. The target is to make it portable,
-reusable and extremely easy to modify during the contest. The algorihtms are wrapped into classes/structs so they won't interfere
+This library is intented to be used in online programming contests, or on ACM-style competitions. The motive is to improve it's  portability,
+reusability and extremely easy to modify during the contest. The algorihtms are wrapped into classes/structs so they won't interfere
 with your functions and variables.
 
 Contents:
